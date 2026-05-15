@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey there! I'm Praful Singh. 👋
 
-<!--
-**prafulsantoshsingh14-sys/prafulsantoshsingh14-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc IT Student | 2nd Year  
+💻 Learning Web Development  
+🏙️ Based in Mumbai  
+🚀 Working towards Blockchain & Web3  
 
-Here are some ideas to get you started:
+## 🛠️ Currently Learning
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- GitHub: You're already here!
